@@ -15,3 +15,5 @@
 7. Znaleźć wszystkie osoby, które dokonały kontrybucji do języka ALGOL
 8. Znaleźć wszystkie osoby, które dokoały co najmniej dwóch kontrybucji i dostały co najmniej dwie nagrody
 9. Znaleźć wszystkie osoby urodzone przed 1960 rokiem.
+10. Znaleźć wszystkie osoby, które otrzymały nagrodę Turinga przed rokiem 2000.
+11. Znaleźć wszystkie osoby, które otryzmały nagrodę ze słowem "Science" w nazwie.

@@ -17,3 +17,5 @@
 9. Znaleźć wszystkie osoby urodzone przed 1960 rokiem.
 10. Znaleźć wszystkie osoby, które otrzymały nagrodę Turinga przed rokiem 2000.
 11. Znaleźć wszystkie osoby, które otryzmały nagrodę ze słowem "Science" w nazwie.
+12. Znaleźć wszystkie osoby, które otrzymały nagrodę, której nazwa składa się z czterech słów.
+13. Znaleźć wszystkie osoby, które otrzymały co najmniej dwie nagrody w latach 2000+
